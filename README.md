@@ -20,7 +20,6 @@ A Flutter web application for discovering and saving delicious **Japanese cuisin
 - 🔍 Search for your favorite dishes
 - 💾 Save favorite recipes locally using Sqflite
 - 📋 View ingredients and detailed instructions
-- 🌐 Works on web (Flutter web)
 
  🚀 Tech Stack
 
